@@ -124,8 +124,7 @@ p{
 	margin-top: 5%;
 	display: flex;
 	justify-content: space-between;
-	margin-left: 5rem !important;
-	margin-right: 5rem !important;
+	
 }
 
 .course-col{
@@ -532,10 +531,7 @@ element.style {
 	
 }
 
-.testimonials-col{
-	margin-left: -90px;
-	
-}
+
 
 
 
